@@ -2,11 +2,12 @@ Loïc Doubinine
 ==============
 
 Hello you !
-
-You end up here for some reason, thank you. This git is like my CV but in better. I hope you'll find information you were looking for. If you were looking for nothing, feel free to make yourself comfortable.
+Vous avez atterri ici, bravo et merci. Ce dépôt est comme un CV mais en mieux. En tout cas il le sera j'espère. 
+J'espère que vous trouverez les informations que vous cherchiez. Si vous êtes là juste pour le plaisir, mettez-vous à l'aise et flânez !
 
 ----------
-All my CV in your favorites languages/format
+Le CV sera disponible  dans différent langages, choisissez celui que vous préférez parmi ceux disponible.
+
 
 * [markdown](/CV.md)
 * ~~javaScript~~
@@ -16,9 +17,9 @@ All my CV in your favorites languages/format
 * ~~word~~
 
 ----------
-####Don't speak english ?####
+####Don't speak french ?####
 To change the language, just change the current **branch** !
 
 ------------
-####Found an error or a missing part ?####
-If you found something wrong, or think I missed a thing, then **Frock** & **Pull** !
+####Un erreur, une "fôte daurtograf", une suggestion, une recommandation ?####
+Pour toute suggestion de modification ou d'ajout, n'hésitez  pas à faire une Pull request.
