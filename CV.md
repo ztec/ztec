@@ -10,7 +10,7 @@ Loïc Doubinine
 
 
 > #### Comment lire ce CV ? 
->  * **Vous êtes préssé** , et vous n'avez pas que ça à faire ? Regardez  juste les "block quotes". Il résume chaque partie avec les mot clé magique de tout recruteur ! 
+>  * **Vous êtes préssé** , et vous n'avez pas que ça à faire ? Regardez  juste les blockquote. Il résume chaque partie avec les mot clé magique de tout recruteur ! 
 >  * **Vous êtes curieux, ou souhaiter comprendre ma vision du WEB ?** Lisez surtout la *première* et *deuxieme* partie.
  * Vous avez des **questions restées sans réponse** ? Contactez-moi par les moyens suivants :
     * Twitter @ztec6 https://twitter.com/ztec6
