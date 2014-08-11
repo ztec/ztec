@@ -99,7 +99,7 @@ Basé sur AdLdap, jetez-y un oeil : https://github.com/ztec/adLDAP
 « Single Page Application » (SPA) qui permet d'afficher les prochains RER d'une gare SNCF d'Ile de France. 
 L'affichage donne des informations en temps réel, et est prévu pour être en permanence visible. 
 
-    Développé quand j'habitais à 150 m d'une station RER, je l'affichais en permanence dans ma cuisine grâce à un petit PC muni d'un simple navigateur Web.  
+Développé quand j'habitais à 150 m d'une station RER, je l'affichais en permanence dans ma cuisine grâce à un petit PC muni d'un simple navigateur Web.  
 
 Prévenu des éventuels retards, j'ajustais mon départ de chez moi pour être sur le quai quand le train y était déjà engagé !  
 
