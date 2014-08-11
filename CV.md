@@ -301,7 +301,7 @@ Technologies used were :
 
 >    **0** - **∞** - Diplôme de la vie, toujours en apprentissagle !
 >    Ecole de la vie
->    FRANCE
+>    EARTH
 
 
   [1]: https://github.com/ztec/sf2DebuggerChrome/blob/master/sf2Debugger/icon64.png?raw=true "Symfony2 profiler shortcut"
