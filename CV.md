@@ -72,6 +72,7 @@ C'est une extension chrome qui rend le développement d'API REST avec symfony2 f
 
 Fork it : https://github.com/ztec/sf2DebuggerChrome  
 Testez-moi sur Chrome : https://chrome.google.com/webstore/detail/symfony2-debuger/denlhphadllhcolhlbbbjmhkgbknmmon
+Les stats : https://github.com/ztec/ztec/blob/French/assets/Sf2ShortcutStats.PNG
 
 >   * Javascript
 >   * HTML-CSS
