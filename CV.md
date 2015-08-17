@@ -1,9 +1,75 @@
 Loïc Doubinine
 ==============
 
->  26 year old, I live in Paris's suburb. I hate cooked fish and love looking at *the* life. If you met me, you probably think I'm crazy, and your right ;-) 
+>  28 year old, I live in Paris's suburb. I hate cooked fish and love looking at *the* life. If you met me , you probably think I'm crazy, and your right ;-) 
+
+>  I like new technologies, and as an early adopter i like testing new stuff with bugs in it and see how it evolve :-)
+
+>  I am constantly looking for learning new tricks, new way of thinking, new tools, new languages. That's why you can see me at some Meetup in Paris around tech subjects. 
+>  First of all, I'm a developer but I'm also comfortable with the configurations of servers or networks. This way, I often have a clear view of problems and solutions from system, architecture and code.
+  
+  
+>  #### How to read this Resume ?
+>  *  **You are in rush**, and don't have time to lose ? Take a look at all titles and blockquote. They summarise all parts with all magic words you probably want to read. ;-)
+>  *  **You are curious, and wana understand how I see the web development ?** Read the **first** and **second** part. 
+ * You have **questions withou response in this document ?** Contact me through one of theses medium :
+    * Twitter @ztec6 https://twitter.com/ztec6
+    * Mail : questions@riper.fr
+    * LinkedIn : https://www.linkedin.com/profile/view?id=66023540
+    * Viadeo : http://fr.viadeo.com/fr/profile/loic.doubinine
+    * Meetup (pour me rencontrer) : http://www.meetup.com/members/30063062/
 
 > Here you'll fine all my career resume, and some personal toys i work(*ed*) on. 
+
+
+
+------------------------------------------------------------------------
+## Skils & knowledge ##
+
+###Devlopement ###
+As a developer, I like coding. I really like the WEB and all related matters. I'm convinced the web is the future event if some think apps are better and will stay like this. 
+
+**I make promotion of all development methodology that invite the developer to think & test before the first line of code : TDD, BDD, DDD, ...**
+ 
+>  * Development in any language (Learning the language is required but dev is almost the same whatever is the language)
+>  * PHP
+>  * Usual Object Oriented Programing (OOP) **Design patters**
+>  * Javascript
+>  ** NodeJs
+>  ** Mobile
+>  ** CofeeScript
+>  * TDD & BDD( Behat, cucumber, protractor)
+
+---------------
+
+### Industrialisation and automation ###
+For me, development of medium to big project require rules and boundaries. The Continuous integration allow rules to be followed without the need to run each validation manualy.
+It also show clearly where and why there is violations. During my career, I had to setup tools for Continuous integration and teach/explain to developers and manager how to read/use it as well as explain the usefulness of it.
+
+Tools that calculate metrics or coverage are often wrongly used. All metrics that wecan have on code is usefull to find where our code need attention, but I thinks it's a helping tool, not a blocking tool.
+
+> * Bamboo (Tool of Atlasian for Continuous integration)
+> * Jenkins 
+> * Continuous devlivery/deployment
+> * Quality metrics (phpmd, phpcs, phpcpd, ...) with good usages. 
+> * Dashboards (Dashing, AppDynamics, Kibana)
+
+---------------
+
+### System ###
+Even if I am a developer, I like managing servers and setup networks. I don't have my hand in Cisco hardware often, but I like knowing how stuff works.
+I'm comfortable using windows and linux as dev environment, and I can easily work on linux server side. I'm capable of setup all major tools used in web starting from Web servers to Database like Mysql or PostgreSql.
+Now, I am using docker a lot, and it make configuration simpler for many of theses things. 
+
+** I am a Developer with a little part of "OPS" in me.** part of my studies where network oriented because I already knew the development side. I wanted to know more on the network side of the force :-)
+
+> * Linux (Debian, Ubuntu, Centos & Redhat)
+> * Nginx, Apache
+> * Php FCGI & FPM
+> * OpenVpn
+> * Active Directory and Open Ldap
+> * AppDynamics
+> * Docker (Docker-compose,swarm,docker-machine)
 
 
 ------------------------------------------------------------------------
@@ -26,7 +92,7 @@ On the Chrome store : https://chrome.google.com/webstore/detail/symfony2-debuger
 A bundle base on AdLdap that make possible to use Active directory users in the Security Firewall integrated into Symfony2. It is simple and open to modifications for those who need more ;-)
 
 Check it out : https://github.com/ztec/ZtecSecurityActiveDirectoryBundle   
-Check AdLdap if you are curious : https://github.com/ztec/adLDAP
+Check AdLdap if you are curious : https://github.com/adldap/adLDAP
 
 >   * Php
 >       * Symfony2
