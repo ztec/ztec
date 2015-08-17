@@ -204,7 +204,7 @@ In Two month, the app was tweaked and made original form the iPhone app in order
 
 The day we push it online, it made all iPhone visits, and went very well.
 
-You can probably still see it from an iPhone or android device : http://m.doctissimo.fr (Not from a computer, or by tweaking your user-agent)
+~~You can probably still see it from an iPhone or android device : http://m.doctissimo.fr (Not from a computer, or by tweaking your user-agent)~~
 
 > * **Php** (for some prototypes)
 > * **JavaScript**
