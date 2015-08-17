@@ -170,6 +170,7 @@ I setup all theses tools & methodology  :
   * Home made tools for dev deployment
   * TDD, BDD wiht Phpunit, Behat & Protractor
   * Phpmd, phpcs, phpmetrics, ...
+  * Docker for automated testing purposes. 
   
  
 Here a sumary of what I will remember from Meetic :
