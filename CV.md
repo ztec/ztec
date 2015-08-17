@@ -53,9 +53,12 @@ L'utilisation d’outils permettant de remonter des métriques ou les zones d'om
 ### Système ###
 Bien que développeur, je suis très curieux dès qu'il s’agit des plateformes d'exécutions. Je suis donc un peut « OPS » dans l'âme et j'adore comprendre et mettre en place les outils du WEB et des systèmes. Mes études étaient orientées réseaux, j'ai donc une bonne maitrise de cette partie et comprend très bien toutes les problématiques qui s'y rapportent.
 
-Concernant mon poste de développement, je suis un adepte de Windows et **déteste les débats inexpugnables Linux vs Windows.** Coté serveurs, je suis plus à l'aise avec du Debian ou du Redhat. 
+Concernant mon poste de développement, je suis un adepte de Windows et **déteste les débats inexpugnables Linux vs Windows.** Coté serveurs, je suis plus à l'aise avec du Debian ou du Redhat.
+
+Autjourd'hui, je base la majorité de mes configurations et installations sur Docker. Cet outil permet une réutilisabilité extreme et facilite la configuration d'outils complexe à mettre en place. 
 
 > * Linux (Debian, ubuntu, Centos et RedHat)
+> * Docker (Docker-compose, Swarm, Docker-machine)
 > * Nginx, Apache
 > * Php FCGI & FPM
 > * OpenVpn
@@ -157,10 +160,22 @@ La formation se faisait sous forme de **stage de 3 semaines** autour d'un **suje
 > * Design patern usuel à symfony (injection de dépendence nottament)
 > * Pédagogie 
 
-En parallèle, j'ai aussi mis en place les premiers outils d'industrialisation à Meetic. **Bamboo** a été le premier. Il permettait de gérer la nouvelle chaine de déploiement, et l'intégration continue.
+En parallèle, j'ai aussi mis en place l'ndustrialisation à Meetic. **Bamboo** à été la première brique. Il permettait de gérer la nouvelle chaine de déploiement, et l'intégration continue.
 **Jenkins** est venu compléter les manques de Bamboo. 
 
-Aujourd'hui dans le service « Qualité & industrialisation » je m'occupe exclusivement de la mise en place des outils permettant de mieux connaître les points forts et points faibles de notre code. J'ai aussi, et surtout, pour mission d'aider les développeurs dans leurs tâches. Cela passe par l'utilisation d'outils, la diffusion d'information et la création/gestion de communauté technique interne. 
+J'ai ensuite intégré le service « Qualité & industrialisation » créer pour l'ocasion. Je m'occupait exclusivement de la mise en place des outils permettant de mieux connaître les points forts et points faibles de notre code. 
+J'ai aussi, et surtout, eu pour mission d'aider les développeurs dans leurs tâches. 
+Cela passe par la mise ne place d'outils, la diffusion d'information et la création/gestion de communauté technique interne. 
+
+Dans ce cadre j'ai donc mis en place :
+> * Jenkins
+> * Bamboo
+> * Gitlab
+> * Docker pour les tests
+> * Les methodologies TDD et BDD
+> * les outils tels que phpUnit, Behat, Protractor pour le "testing" 
+
+
 
 Pour résumer, voici tout ce que je retiens de mon expérience Meetic (par ordre d'importance)
 > * Aventure Humaine exeptionelle
