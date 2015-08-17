@@ -323,7 +323,7 @@ Technologies used were :
   [1]: https://github.com/ztec/sf2DebuggerChrome/blob/master/sf2Debugger/icon64.png?raw=true "Symfony2 profiler shortcut"
   [2]: http://www.obesity-diet.com/stock_images/actus/93/logo-doctissimo.gif "Doctissimo"
   [3]: http://www.berins.fr/sites/drup.berins.fr/files/ztec_theme_logo.png "Berins"
-  [4]: http://ireb.com/sites/default/files/garland_logo.png "Institut de REcherche scientifique sur les Boissons (IREB)"
+  [4]: http://www.ireb.com/sites/default/files/garland_logo.png "Institut de REcherche scientifique sur les Boissons (IREB)"
   [5]: http://www.padeleon.com/pictures/logo.png "Padeleon"
   [6]: http://www.r-interface.com/data/customers/5.jpg "IN-SNEC"
   [7]: http://stda.ilius.net/img/brands/meetic/fr/index/logo_2014.png?v=1405512837 "Meetic"
