@@ -3,15 +3,12 @@ Loïc Doubinine
 
 Hello you !
 
-You end up here for some reason, thank you. This git is like my CV but in better. I hope you'll find information you were looking for. If you were looking for nothing, feel free to make yourself comfortable.
+You end up here for some reason, thank you. This git repository is like my CV. I hope you'll find the information you were looking for. If you were looking for nothing, feel free to make yourself comfortable.
 
 ----------
-All my CV in your favorites languages/format
+All my CV in your favorites format
 
 * [markdown](/CV.md)
-* ~~javaScript~~
-* ~~HTML-CSS~~
-* ~~php~~
 * ~~pdf~~
 * ~~word~~
 
