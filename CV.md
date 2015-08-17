@@ -320,5 +320,5 @@ Technologies used were :
   [3]: http://www.berins.fr/sites/drup.berins.fr/files/ztec_theme_logo.png "Berins"
   [4]: http://www.ireb.com/sites/default/files/garland_logo.png "Institut de REcherche scientifiques sur les Boissons (IREB)"
   [5]: http://www.padeleon.com/pictures/logo.png "Padeleon"
-  [6]: http://www.r-interface.com/data/customers/5.jpg "IN-SNEC"
+  [6]: http://www.eteil.com/images/Insnec%20pres.jpg "IN-SNEC"
   [7]: http://stda.ilius.net/img/brands/meetic/fr/index/logo_2014.png "Meetic"
