@@ -168,12 +168,12 @@ J'ai aussi, et surtout, eu pour mission d'aider les développeurs dans leurs tâ
 Cela passe par la mise ne place d'outils, la diffusion d'information et la création/gestion de communauté technique interne. 
 
 Dans ce cadre j'ai donc mis en place :
-> * Jenkins
-> * Bamboo
-> * Gitlab
-> * Docker pour les tests
-> * Les methodologies TDD et BDD
-> * les outils tels que phpUnit, Behat, Protractor pour le "testing" 
+ * Jenkins
+ * Bamboo
+ * Gitlab
+ * Docker pour les tests
+ * Les methodologies TDD et BDD
+ * les outils tels que phpUnit, Behat, Protractor pour le "testing" 
 
 
 
