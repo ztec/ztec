@@ -76,10 +76,14 @@ Now, I am using docker a lot, and it make configuration simpler for many of thes
 
 ##Personal & public project I'm proud of##
 
+**All my relevant tools and code is not in my personal Github space. It's located in the organisation : Riper, https://github.com/RiperFr **
+
+My personal space on Github is more like a scrapbook for code. You will probably find useful stuf, but mostly, it's not really interesting. 
+
 ###![Symfony2 Profiler shortcut][1] Symfony2 Profiler Shortcut
 This is a chrome extension that make debugging REST API made with Symfony2 based framework easy !
 
-Check it out : https://github.com/ztec/sf2DebuggerChrome  
+Check it out : https://github.com/RiperFr/sf2DebuggerChrome 
 On the Chrome store : https://chrome.google.com/webstore/detail/symfony2-debuger/denlhphadllhcolhlbbbjmhkgbknmmon
 
 >   * Javascript
@@ -106,7 +110,7 @@ Check AdLdap if you are curious : https://github.com/adldap/adLDAP
 This is a simple Single Page Application (SPA) that fetch SNCF data to display real-time information. I use it in my kitchen to check train every morning. Train station is at 150m from my door, so any perturbation known in advance is very good.
 
 For a live version that work some time : https://www.riper.fr/swa/Prochainsdeparts/  
-Fork it on Github : https://github.com/ztec/prochain-departs
+Fork it on Github : https://github.com/RiperFr/prochain-departs
 
 >   *   Php (REST WebService)
 >   *   Javascript
@@ -116,10 +120,10 @@ Fork it on Github : https://github.com/ztec/prochain-departs
 ----------------
 
 ###Bclock###
-This is a simple clock with chronometers. I also use it on my kitchen to cook rice or eggs. This is a Single Page Application too, made in CofeeScript
+This is a simple clock with chronometers. I also use it on my kitchen to cook rice or eggs. This is a Single Page Application too, made in CofeeScript.
 
 For live version : https://www.riper.fr/swa/bclock/  
-Fork it on Github : https://github.com/ztec/Bclock
+Fork it on Github : https://github.com/RiperFr/Bclock
 
 
 
@@ -128,7 +132,65 @@ Fork it on Github : https://github.com/ztec/Bclock
 
 ##Professional experiences##
 
-###![enter image description here][2]
+###![Meetic][7]
+Since **2011**, I am working on the evolution and refactoring of the N°1 dating web site in europe. Meetic is born in france, but is now leader in all the europe with brands like Match, Lexa, Friend scout, Neu, ...
+
+First, I integrated Meetic as simple developer in a **SCRUM** team. I worked on new features on the web site and also enhances previous features.
+
+> * PHP4 with PHP4 interpreter :-) 
+> * SCRUM Methodology
+> * Team working (Tester, Integrator, Scrum Master and Developers) 
+
+Then, I quickly integrated the **CORE**. SCRUM was done for me at this time because projects are not the sames. They are with multiple teams, and does not require work on regular basis. 
+I actively participate in the creation of new development process related to the new architecture in preparation. 
+
+The new architecture is based on the SOA principle. SOA stand for **"Service Oriented Application"**. THe main goal is to make the entire platform easy to update, upgrade and modify. 
+The starting point is a php4 monolithic application that need to be cut and re-worked.
+
+I participate in creation of Proof of concept that allowed us to know which of the following framework was best suited : Symfony2, Silex, Zend Framework 2. Symfony2 was selected.
+
+I had to teach, to french developers at meetic, Object oriented programing in order to make them ready to work on Symfony2. During the formation I had to teach some design patterns and the general usefulness of them.
+I had to explain the new Continuous integration process and all meaning of metrics we were using. And to finish, TDD (Test Drive Development) was a challenge too.
+
+> * Design 
+>   * UML Diagrams with * Astah*
+>   * REST contract definitions
+> * Test Driven Development methodology (TDD)
+> * Usual Design patterns commonly used in Symfony2
+> * Pedagogy 
+
+In parallel, I also setup all the Continuous integration chain. First with Bamboo, for deployment and JIRA integration, then with jenkins for the dev continuous integration. Jenkins made possible things tha were not with Bamboo. 
+
+After few month, I integrated the "Quality & industrialisation" service newly created in Meetic. I was full time on Industrialisation matters and promotions of quality in early stage of development.
+I setup all theses tools & methodology  :
+
+  * Gitlab
+  * Jenkins
+  * Bamboo
+  * Home made tools for dev deployment
+  * TDD, BDD wiht Phpunit, Behat & Protractor
+  * Phpmd, phpcs, phpmetrics, ...
+  
+ 
+Here a sumary of what I will remember from Meetic :
+
+> * Extraordinary peoples
+> * Php
+>   * Phing
+>   * Phpunit
+>   * phpcs, phpmd, phpcpd, phpmetrics, ...
+> * Symfony2
+> * REST web services
+> * Dispensing training and helping others
+> * UML (Mostly Class & sequence diagrams)
+> * Continuous integration & continuous delivery  (Setup & usage) 
+> * Bamboo, Jenkins
+> * Git & Gitlab
+> * Capistrano
+
+
+
+###![Doctissimo][2]
 My **final degree's internship** was at **Doctissimo** on the year **2011**. It was my best experience so far. I had to create from (almost) scratch a **mobile version** of the famous doctissimo forum (On the 3 first website of France) . It would be at least as good as the iPhone App.
 
 After studies of multiple technologies, different path, and made many prototypes, I took the **Single Page Application** (**SPA**)  pattern. 
@@ -255,6 +317,7 @@ Technologies used were :
   [1]: https://github.com/ztec/sf2DebuggerChrome/blob/master/sf2Debugger/icon64.png?raw=true "Symfony2 profiler shortcut"
   [2]: http://www.obesity-diet.com/stock_images/actus/93/logo-doctissimo.gif "Doctissimo"
   [3]: http://www.berins.fr/sites/drup.berins.fr/files/ztec_theme_logo.png "Berins"
-  [4]: http://ireb.com/sites/default/files/garland_logo.png "Institut de REcherche scientifiques sur les Boissons (IREB)"
+  [4]: http://www.ireb.com/sites/default/files/garland_logo.png "Institut de REcherche scientifiques sur les Boissons (IREB)"
   [5]: http://www.padeleon.com/pictures/logo.png "Padeleon"
   [6]: http://www.r-interface.com/data/customers/5.jpg "IN-SNEC"
+  [7]: http://stda.ilius.net/img/brands/meetic/fr/index/logo_2014.png "Meetic"
