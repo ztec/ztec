@@ -2,17 +2,14 @@ Loïc Doubinine
 ==============
 
 Hello you !
-Vous avez atterri ici, bravo et merci. Ce dépôt est comme un CV mais en mieux. En tout cas il le sera j'espère. 
+Vous avez atterri ici, bravo et merci. Ce dépôt est comme un CV.
 J'espère que vous trouverez les informations que vous cherchiez. Si vous êtes là juste pour le plaisir, mettez-vous à l'aise et flânez !
 
 ----------
-Le CV sera disponible  dans différent langages, choisissez celui que vous préférez parmi ceux disponible.
+Le CV est disponible  dans différent formats, choisissez celui que vous préférez parmi ceux disponible.
 
 
 * [markdown](/CV.md)
-* ~~javaScript~~
-* ~~HTML-CSS~~
-* ~~php~~
 * ~~pdf~~
 * ~~word~~
 
