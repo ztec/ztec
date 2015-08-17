@@ -138,11 +138,11 @@ Fork it : https://github.com/ztec/Bclock
 ###![Meetic][7]
 Depuis **2011** je participe à l'évolution et à la refonte du site web n°1 de la rencontre en ligne. Meetic, c'est un acteur majeur du web français, mais aussi européen. 
 
-Premièrement, j'ai intégré meetic en tant que développeur dans une équipe **SCRUM**. Je participais au développement de nouvelles fonctionnalités et à l'amélioration d'autres. 
+Premièrement, j'ai intégré Meetic en tant que développeur dans une équipe **SCRUM**. Je participais au développement de nouvelles fonctionnalités et à l'amélioration d'autres. 
 
-> * php4 sur interpreteur php4 !
+> * php4 sur interpréteur php4 !
 > * Méthodologie SCRUM
-> * Developpement en équipe (Testeur, Intégrateur, Scrum Master et developpeurs) 
+> * Développement en équipe (Testeur, Intégrateur, Scrum Master et développeurs) 
 
 Ensuite, j'ai rapidement intégré le **CORE**. Fini le SCRUM, car les projets ne se font plus qu'avec une seule équipe. Je participe activement à l'élaboration des nouveaux process de développement lié à la nouvelle architecture.
 
@@ -150,20 +150,20 @@ La nouvelle architecture choisie est : « **SOA** » pour **Service Oriented 
 
 J'ai participé aux POC qui ont permis de définir le socle technique à utiliser, **Silex**, **Syfmony2** ou **Zend Framework 2**. Le choix final a été **Syfmony2**
 
-J'ai eu en charge la formation des équipes françaises aux **pattern de conception objet**, et aux **nouvelles méthodologies** de codage. Le framework syfmony 2 était aussi à faire découvrir et apprendre.
+J'ai eu en charge la formation des équipes françaises aux **pattern de conception objet**, et aux **nouvelles méthodologies** de codage. Le framework syfmony 2 était aussi à enseigner. 
 La formation se faisait sous forme de **stage de 3 semaines** autour d'un **sujet pratique réel** appliqué à Meetic. 
 
 > * Conception en ammon
 >   * Diagrame UML avec *Astah* 
 >   * Définition du contrat **REST**
 > * Méthodologie *Test Driven Developpemnt* **TDD**
-> * Design patern usuel à symfony (injection de dépendence nottament)
+> * Design patern usuel à symfony (injection de dépendance notamment)
 > * Pédagogie 
 
-En parallèle, j'ai aussi mis en place l'ndustrialisation à Meetic. **Bamboo** à été la première brique. Il permettait de gérer la nouvelle chaine de déploiement, et l'intégration continue.
+En parallèle, j'ai aussi mis en place l’industrialisation à Meetic. **Bamboo** à été la première brique. Il permettait de gérer la nouvelle chaîne de déploiement, et l'intégration continue.
 **Jenkins** est venu compléter les manques de Bamboo. 
 
-J'ai ensuite intégré le service « Qualité & industrialisation » créer pour l'ocasion. Je m'occupait exclusivement de la mise en place des outils permettant de mieux connaître les points forts et points faibles de notre code. 
+J'ai ensuite intégré le service « Qualité & industrialisation » créer pour l’occasion. Je m'occupait exclusivement de la mise en place des outils permettant de mieux connaître les points forts et points faibles de notre code. 
 J'ai aussi, et surtout, eu pour mission d'aider les développeurs dans leurs tâches. 
 Cela passe par la mise ne place d'outils, la diffusion d'information et la création/gestion de communauté technique interne. 
 
@@ -209,7 +209,7 @@ Les deux mois restants ont permis de différencier l'application du *look* iPhon
 
 Le jour de sa mise en ligne, tout c'est bien déroulé, et de bons retours nous sont rapidement parvenus. Vous pouvez sûrement encore en profiter, bien qu'elle ait certainement été un peu modifiée depuis la version que j'ai créée. 
 
-http://m.doctissimo.fr (depuis votre smartphone ou un navigateur avec le bon user-agent) 
+~~http://m.doctissimo.fr (depuis votre smartphone ou un navigateur avec le bon user-agent)~~ 
 
 > * **Php** (for some prototypes)
 > * **JavaScript**
