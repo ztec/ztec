@@ -315,7 +315,7 @@ Technologies used were :
     
  
 
->    **0** - **∞** - Diplôme de la vie, toujours en apprentissagle !
+>    **0** - **∞** - Diplôme de la vie, toujours en apprentissage !
 >    Ecole de la vie
 >    EARTH
 
