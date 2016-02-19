@@ -55,7 +55,7 @@ Bien que développeur, je suis très curieux dès qu'il s’agit des plateformes
 
 Concernant mon poste de développement, je suis un adepte de Windows et **déteste les débats inexpugnables Linux vs Windows.** Coté serveurs, je suis plus à l'aise avec du Debian ou du Redhat.
 
-Autjourd'hui, je base la majorité de mes configurations et installations sur Docker. Cet outil permet une réutilisabilité extreme et facilite la configuration d'outils complexe à mettre en place. 
+Aujourd'hui, je base la majorité de mes configurations et installations sur Docker. Cet outil permet une réutilisabilité extreme et facilite la configuration d'outils complexe à mettre en place. 
 
 > * Linux (Debian, ubuntu, Centos et RedHat)
 > * Docker (Docker-compose, Swarm, Docker-machine)
